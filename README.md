@@ -3,6 +3,9 @@
 - 핵심기능: 배경색 랜덤 변경, GitHub 연결, 사진변경
 
 ## 실행 화면 (여기에 실행 중인 스크린샷이나 GIF를 마우스로 끌어다 넣으세요!)
+![Screenshot_20260310_183210_Chrome](https://github.com/user-attachments/assets/94006b9d-4d5a-400e-ba7e-d0c1bbb2721f)
+![Screenshot_20260310_183147_Chrome](https://github.com/user-attachments/assets/dbd44762-4b46-4d80-ac76-96ac76ae2405)
+![Screenshot_20260310_183140_Chrome](https://github.com/user-attachments/assets/88afa8e7-cf2b-4734-8055-d951c08bf51a)
 
 ## 구현 시 어려웠던 점
 
