@@ -43,7 +43,7 @@
             // 
             pictureBox1.Image = Properties.Resources.image1;
             pictureBox1.Location = new Point(96, 147);
-            pictureBox1.Margin = new Padding(6, 6, 6, 6);
+            pictureBox1.Margin = new Padding(6);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(500, 365);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
@@ -115,7 +115,7 @@
             // 
             // button2
             // 
-            button2.BackColor = SystemColors.ControlLightLight;
+            button2.BackColor = SystemColors.ButtonFace;
             button2.Font = new Font("맑은 고딕", 36F, FontStyle.Bold, GraphicsUnit.Point, 129);
             button2.ForeColor = SystemColors.ActiveCaption;
             button2.Location = new Point(1137, 767);
@@ -153,7 +153,7 @@
             Controls.Add(label1);
             Controls.Add(pictureBox1);
             Font = new Font("맑은 고딕", 18F, FontStyle.Bold, GraphicsUnit.Point, 129);
-            Margin = new Padding(6, 6, 6, 6);
+            Margin = new Padding(6);
             Name = "Form1";
             Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
